@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+}
+.right-links{
+    display: flex;
+    gap: 48px;
+    list-style: none;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    height: 100vh;
+}
+.box-1{
+    display: flex;
+    flex: auto;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 1;
+    margin: 48px;
+    gap: 48px;
+}
+.moth{
+    max-width: 500px;
+}
+.box-2{
+    display: flex;
+    flex: auto;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
