@@ -1,9 +1,10 @@
 .header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     background-color: #1f2937;
     color: white;
+  
 }
 .right-links{
     display: flex;
@@ -15,15 +16,16 @@ body{
     flex-direction: column;
     flex: auto;
     height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .box-1{
     display: flex;
-    flex: auto;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    flex-shrink: 1;
-    margin: 48px;
-    gap: 48px;
+    padding: 90px;
+    gap: 20px;
+    background-color: #1f2937;
+    color: white;
 }
 .moth{
     max-width: 500px;
