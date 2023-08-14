@@ -99,5 +99,35 @@ h1{
     color: #1f2937;
     font-weight: 900;
     font-size: large;
-   
+}
+.box-4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding: 24px;
+
+}
+.box-4 button {
+    border-color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 8px;
+    width: 100px;
+    height: 25px;
+    color: #f9faf8;
+}
+.box-4 h3{
+    color: #f9faf8;
+}
+.box-4 p{
+    color: #f9faf8;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
 }
