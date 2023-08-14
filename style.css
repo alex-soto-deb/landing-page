@@ -56,3 +56,19 @@ body{
     border: solid #3882f6;
     border-radius: 25px;
 }
+.box-1 button{
+color:white;
+background-color: #3882f6;
+border-radius: 6px;
+width: 100px;
+height: 30px;
+}
+h1{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+p .box-1{
+    font-size: 18px;
+    color: #e5e7eb;
+}
