@@ -68,7 +68,36 @@ h1{
     font-weight: 900;
     color: #f9faf8;
 }
-p .box-1{
+.box-1 p{
     font-size: 18px;
     color: #e5e7eb;
+}
+.box-2 h2{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+.info .text{
+    font-size: 18px;
+    color: #1f2937;
+}
+.box-3{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px;
+    align-items: end;
+}
+.box-3 p1{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+.box-3 p{
+    color: #1f2937;
+    font-weight: 900;
+    font-size: large;
+   
 }
